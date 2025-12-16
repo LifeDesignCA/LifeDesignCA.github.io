@@ -1,12 +1,165 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>LifeDesignCA - Page de Validation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="p:domain_verify" content="1a2193bcdadb6587e1a1d6a5b099e6ce"/>
+    <title>LifeDesignCA | Official Etsy Shop & Catalogue</title>
+    
+    <meta name="p:domain_verify" content="1a2193bcdadb6587e1a1d6a5b099e6ce"/> 
+    
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #ffffff; padding: 30px 0; border-bottom: 3px solid #5C2D91; text-align: center; }
+        h1 { color: #5C2D91; font-size: 2.5em; margin: 0; }
+        .intro-text { margin: 10px 0 30px; color: #666; font-size: 1.1em; }
+        .product-grid { 
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: center; 
+            gap: 20px; 
+            padding: 40px 20px; 
+            max-width: 1300px; /* AUGMENTÉ */
+            margin: 0 auto; 
+        }
+        .product-card { 
+            background-color: #ffffff; 
+            border: 1px solid #ddd; 
+            border-radius: 8px; 
+            padding: 15px; 
+            width: 380px; /* AUGMENTÉ */
+            text-align: center; 
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); 
+            transition: transform 0.3s;
+        }
+        .product-card:hover { transform: translateY(-5px); box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1); }
+        .product-image { width: 100%; height: 200px; object-fit: cover; border-radius: 4px; margin-bottom: 15px; }
+        .product-details h3 { font-size: 1.2em; margin: 0 0 10px; color: #333; height: 3em; overflow: hidden; }
+        .product-price { font-size: 1.2em; color: #D84D3A; font-weight: bold; margin: 5px 0; }
+        .product-description { font-size: 0.9em; color: #666; margin: 5px 0 15px; height: 3.5em; overflow: hidden; line-height: 1.2; }
+        .product-button { display: inline-block; background-color: #F8C31D; color: #333; padding: 8px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s; }
+        .product-button:hover { background-color: #e0ac1a; }
+        .language-switcher { position: absolute; top: 15px; right: 20px; }
+        .language-switcher button { background: none; border: 1px solid #5C2D91; color: #5C2D91; padding: 5px 10px; cursor: pointer; border-radius: 4px; }
+        
+        footer { margin-top: 50px; padding: 20px; border-top: 1px solid #eee; background-color: #ffffff; text-align: center; font-size: 0.9em; }
+        footer a { color: #5C2D91; margin: 0 10px; text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+    </style>
 </head>
 <body>
-    <h1>Bienvenue sur LifeDesignCA</h1>
-    <p>Cette page sert de vérification de propriété de domaine pour l'accès à notre API Pinterest.</p>
-    <p>Vous pouvez retrouver nos produits directement sur notre boutique Etsy.</p>
+
+    <div class="language-switcher">
+        <button onclick="setLang('en')" id="lang-en" style="font-weight: bold;">English</button>
+        <button onclick="setLang('fr')" id="lang-fr">Français</button>
+    </div>
+
+    <header>
+        <h1 data-en="LifeDesignCA" data-fr="LifeDesignCA">LifeDesignCA</h1>
+        <p class="intro-text" data-en="Discover our digital planners, inspirational apparel, and more, straight from our official Etsy shop." data-fr="Découvrez nos planificateurs numériques, vêtements inspirants, et plus encore, directement depuis notre boutique Etsy officielle.">Discover our digital planners, inspirational apparel, and more, straight from our official Etsy shop.</p>
+        <a href="https://www.etsy.com/shop/LifeDesignCA" target="_blank" class="product-button" style="padding: 15px 30px; font-size: 1.1em;" data-en="View All Products on Etsy" data-fr="Voir Tous les Produits sur Etsy">View All Products on Etsy</a>
+    </header>
+
+    <div class="product-grid">
+
+        <div class="product-card">
+            <img src="https://i.etsystatic.com/38135463/r/il/31f0b6/6984311138/il_794xN.6984311138_myem.jpg" alt="2025-2027 Printable Calendar" class="product-image">
+            <div class="product-details">
+                <h3 data-en="2025-2027 Printable Calendar (A3/A4/Letter) | Minimalist Planner" data-fr="Calendrier Imprimable 2025-2027 (A3/A4/Lettre) | Minimaliste">2025-2027 Printable Calendar (A3/A4/Letter) | Minimalist Planner</h3>
+                <p class="product-price">4.50 CAD</p>
+                <p class="product-description" data-en="Printable Monthly Calendar 2026-2027 | PDF Letter | French & English versions. Elegant and minimal design, perfect for home, office or study." data-fr="Calendrier Mensuel 2026-2027 Imprimable | PDF Lettre | Versions française et anglaise. Design élégant et minimaliste, parfait pour la maison ou le bureau.">Printable Monthly Calendar 2026-2027 | PDF Letter | French & English versions. Elegant and minimal design, perfect for home, office or study.</p>
+                <a href="https://www.etsy.com/listing/4327016012/calendrier-2025-2026-2027-imprimable-o" target="_blank" class="product-button" data-en="View on Etsy" data-fr="Voir sur Etsy">View on Etsy</a>
+            </div>
+        </div>
+        
+        <div class="product-card">
+            <img src="https://i.etsystatic.com/38135463/r/il/037a34/7057585201/il_794xN.7057585201_49pj.jpg" alt="Research Article Summary Sheet" class="product-image">
+            <div class="product-details">
+                <h3 data-en="Journal/Research Article Summary Sheet | Printable & Fillable PDF" data-fr="Fiche Résumé d'Article de Recherche | PDF Imprimable et Remplissable">Journal/Research Article Summary Sheet | Printable & Fillable PDF</h3>
+                <p class="product-price">2.00 CAD</p>
+                <p class="product-description" data-en="Improve your academic note-taking with this 2-page article summary sheet pack. Ideal for students, researchers, and teachers." data-fr="Améliorez vos prises de notes académiques avec ce pack de 2 fiches résumé d’article. Idéal pour les étudiants, chercheurs, enseignants.">Improve your academic note-taking with this 2-page article summary sheet pack. Ideal for students, researchers, and teachers.</p>
+                <a href="https://www.etsy.com/listing/4333346421/fiche-resume-darticle-journal-et-de" target="_blank" class="product-button" data-en="View on Etsy" data-fr="Voir sur Etsy">View on Etsy</a>
+            </div>
+        </div>
+        
+        <div class="product-card">
+            <img src="https://i.etsystatic.com/38135463/r/il/734c51/7557002097/il_1140xN.7557002097_mkou.jpg" alt="Printable recipe book template" class="product-image">
+            <div class="product-details">
+                <h3 data-en="Printable Recipe Book Template | Blank Recipe Page & Cookbook Journal" data-fr="Modèle de Livre de Recettes Imprimable | Pages Vides et Journal de Cuisine">Printable Recipe Book Template | Blank Recipe Page & Cookbook Journal</h3>
+                <p class="product-price">4.00 CAD</p>
+                <p class="product-description" data-en="Printable Recipe Page Set — 4 Formats (A4, A5, Letter & Half Size). Organize your recipes easily and beautifully." data-fr="Set de Pages de Recettes Imprimables — 4 Formats. Organisez vos recettes facilement et avec élégance.">Printable Recipe Page Set — 4 Formats (A4, A5, Letter & Half Size). Organize your recipes easily and beautifully.</p>
+                <a href="https://www.etsy.com/listing/4393065246/printable-recipe-book-template-blank" target="_blank" class="product-button" data-en="View on Etsy" data-fr="Voir sur Etsy">View on Etsy</a>
+            </div>
+        </div>
+        
+        <div class="product-card">
+            <img src="https://i.etsystatic.com/38135463/r/il/9d1462/7296596684/il_794xN.7296596684_ig4p.jpg" alt="Printable Mood Tracker" class="product-image">
+            <div class="product-details">
+                <h3 data-en="Printable Mood Tracker | A Year in Pixels | Wellness & Emotion Journal" data-fr="Suivi de l'Humeur Imprimable | Une Année en Pixels | Journal Bien-être">Printable Mood Tracker | A Year in Pixels | Wellness & Emotion Journal</h3>
+                <p class="product-price">2.00 CAD</p>
+                <p class="product-description" data-en="Visualize your mood every day with a stylish and colorful chart, accompanied by motivational quotes for each mood. Instant download." data-fr="Visualisez votre humeur chaque jour avec un tableau élégant et coloré, accompagné de citations de motivation. Téléchargement instantané.">Visualize your mood every day with a stylish and colorful chart, accompanied by motivational quotes for each mood. Instant download.</p>
+                <a href="https://www.etsy.com/listing/4321475602/suivi-de-lhumeur-imprimable-une-annee-en" target="_blank" class="product-button" data-en="View on Etsy" data-fr="Voir sur Etsy">View on Etsy</a>
+            </div>
+        </div>
+        
+        <div class="product-card">
+            <img src="https://i.etsystatic.com/38135463/r/il/267d3e/7331065475/il_794xN.7331065475_o8fs.jpg" alt="Rise Like a King Sweatshirt" class="product-image">
+            <div class="product-details">
+                <h3 data-en="Rise Like a King Sweatshirt | Chess Motivation Crewneck | Unisex Gift" data-fr="Sweat-shirt "Rise Like a King" | Motivation Échecs | Unisexe">Rise Like a King Sweatshirt | Chess Motivation Crewneck | Unisex Gift</h3>
+                <p class="product-price">30.00 CAD</p>
+                <p class="product-description" data-en="Inspirational unisex pullover for chess lovers and dreamers. Designed for comfort and style. Ideal unique gift." data-fr="Chandail unisexe inspirant pour les amateurs d'échecs. Conçu pour le confort et le style. Cadeau unique idéal.">Inspirational unisex pullover for chess lovers and dreamers. Designed for comfort and style. Ideal unique gift.</p>
+                <a href="https://www.etsy.com/listing/4386350827/rise-like-a-king-sweatshirt-chess" target="_blank" class="product-button" data-en="View on Etsy" data-fr="Voir sur Etsy">View on Etsy</a>
+            </div>
+        </div>
+        
+        <div class="product-card">
+            <img src="https://i.etsystatic.com/38135463/r/il/8b515d/7330942501/il_794xN.7330942501_duru.jpg" alt="Play Like a King Ceramic Mug" class="product-image">
+            <div class="product-details">
+                <h3 data-en="Play Like a King Ceramic Mug | Chess Themed Coffee Cup (11oz, 15oz)" data-fr="Tasse en Céramique "Play Like a King" | Thème Échecs (11oz, 15oz)">Play Like a King Ceramic Mug | Chess Themed Coffee Cup (11oz, 15oz)</h3>
+                <p class="product-price">11.00 CAD</p>
+                <p class="product-description" data-en="High-quality ceramic mug for chess players. Available in 11oz and 15oz sizes. Rule the game with your coffee!" data-fr="Mug en céramique de haute qualité pour les joueurs d'échecs. Disponible en formats 11oz et 15oz. Dirigez le jeu avec votre café !">High-quality ceramic mug for chess players. Available in 11oz and 15oz sizes. Rule the game with your coffee!</p>
+                <a href="https://www.etsy.com/listing/4386326751/rule-the-game-with-our-play-like-a-king" target="_blank" class="product-button" data-en="View on Etsy" data-fr="Voir sur Etsy">View on Etsy</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <nav>
+            <a href="https://www.etsy.com/shop/LifeDesignCA#policies" target="_blank" data-en="Terms & Conditions" data-fr="Conditions Générales de Vente (CGV)">Terms & Conditions</a>
+            <a href="https://www.etsy.com/legal/policy/politique-de-confidentialite/1018805903254" target="_blank" data-en="Privacy Policy" data-fr="Politique de Confidentialité">Privacy Policy</a>
+            <a href="mailto:contact@lifedesignca.com" data-en="Contact Us" data-fr="Contactez-nous">Contact Us</a>
+        </nav>
+        <p style="margin-top: 10px;">&copy; 2025 LifeDesignCA. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        // Functionalité de changement de langue
+        const elements = document.querySelectorAll('[data-en], [data-fr]');
+        const langEnButton = document.getElementById('lang-en');
+        const langFrButton = document.getElementById('lang-fr');
+
+        function setLang(lang) {
+            document.documentElement.lang = lang;
+            
+            // Mise à jour de tous les éléments
+            elements.forEach(el => {
+                let key = 'data-' + lang;
+                if (el.hasAttribute(key)) {
+                    // Pour les éléments simples (p, h1, a, etc.)
+                    if (!el.classList.contains('product-button')) {
+                         el.textContent = el.getAttribute(key);
+                    }
+                }
+            });
+
+            // Mise à jour des boutons du switcher
+            langEnButton.style.fontWeight = lang === 'en' ? 'bold' : 'normal';
+            langFrButton.style.fontWeight = lang === 'fr' ? 'bold' : 'normal';
+        }
+
+        // Initialisation de la langue par défaut (Anglais)
+        setLang('en');
+    </script>
+
 </body>
 </html>
