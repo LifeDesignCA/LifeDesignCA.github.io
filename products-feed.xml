@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
@@ -16,7 +17,8 @@
       <description><![CDATA[
         <p>Calendrier Mensuel minimaliste bilingue — PDF Letter/A4/A3, téléchargement instantané.</p>
         <p>Prix : 4,50 CAD</p>
-        <p><img src="https://i.etsystatic.com/38135463/r/il/31f0b6/6984311138/il_570xN.6984311138_myem.jpg" alt="Calendrier>
+        <p><img src="https://i.etsystatic.com/38135463/r/il/31f0b6/6984311138/il_570xN.698em.jpg</p>
+      ]]></description>
     </item>
 
     <!-- ITEM 2 -->
@@ -28,7 +30,7 @@
       <description><![CDATA[
         <p>Pack de 2 modèles (structuré + synthétique), PDF imprimable + 2 PDF A4 fillable.</p>
         <p>Prix : 2,00 CAD</p>
-        <p><img src="https://i.etsystatic.com//il/24908f/7057585201/il_570xN.7057585201_49pj.jpg</p>
+        <p><img src="https://i.etsystatic.com/38135463/r/il/24908f/7057585201/il7585201_49pj.jpg</p>
       ]]></description>
     </item>
 
@@ -39,9 +41,10 @@
       <guid>https://www.etsy.com/ca-fr/listing/4393065246/printable-recipe-book-template-blank1763224476</guid>
       <pubDate>Sat, 15 Nov 2025 11:34:36 -0500</pubDate>
       <description><![CDATA[
-        <p>Journal de recettes — 4 formats & version A4 remplissable.</p>
+        <p>Journal de recettes — 4 formats &amp; version A4 remplissable.</p>
         <p>Prix : 4,00 CAD</p>
-        <p><img src="https://i.etsystatic.com/38135463/r/il/832861/7557002097/il_570xN.7557002097_mkou.jpg" alt="Recipe page
+        <p><img src="https://i.etsystatic.com/38135463/r/il/8328617/il_570xN.7557002097_mkou.jpg</p>
+      ]]></description>
     </item>
 
     <!-- ITEM 4 -->
@@ -58,4 +61,4 @@
     </item>
 
   </channel>
-
+</rss>
