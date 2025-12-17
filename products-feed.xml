@@ -1,63 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>LifeDesignCA — Produits Etsy</title>
+    <title>LifeDesignCA — Produits</title>
     <link>https://lifedesignca.github.io/</link>
-    <description>Flux RSS des produits Etsy — hébergé sur lifedesignca.github.io</description>
+    <description>Flux RSS des produits LifeDesignCA hébergé sur notre domaine</description>
     <language>fr-CA</language>
-    <lastBuildDate>Wed, 17 Dec 2025 20:33:00 GMT</lastBuildDate>
-
-    <!-- ITEM 1 -->
+    <lastBuildDate>Wed, 17 Dec 2025 21:06:36 GMT</lastBuildDate>
     <item>
-      <title>Calendrier 2025-2026-2027 Imprimable (FR/EN) — Letter/A4/A3</title>
-      <link>https://www.etsy.com/ca-fr/listing/4327016012/calendrier-2025-2026-2027-imprimable-o</link>
-      <guid>https://www.etsy.com/ca-fr/listing/4327016012/calendrier-2025-2026-2027-imprimable-o1765255246</guid>
-      <pubDate>Mon, 08 Dec 2025 23:40:46 -0500</pubDate>
-      <description><![CDATA[
-        <p>Calendrier Mensuel minimaliste bilingue — PDF Letter/A4/A3, téléchargement instantané.</p>
-        <p>Prix : 4,50 CAD</p>
-        <p><img src="https://i.etsystatic.com/38135463/r/il/31f0b6/6984311138/il_570xN.698em.jpg"</p>
-      ]]></description>
+      <title>📅 Calendrier Mensuel 2026-2027 Imprimable (FR/EN) — Letter/A4/A3</title>
+      <link>https://lifedesignca.github.io/calendrier-2026.html</link>
+      <guid>https://lifedesignca.github.io/calendrier-2026.html</guid>
+      <pubDate>Wed, 17 Dec 2025 21:06:36 GMT</pubDate>
+      <description><![CDATA[📅 Calendrier Mensuel 2026-2027 Imprimable | PDF Letter | Français & Anglais | Printable Monthly Calendar 2026 2027 | Digital Planner. FRANÇAIS — Calendrier 2026-2027 à imprimer. Formats: Letter, A4, A3. Design minimaliste bilingue. Téléchargement instantané, prêt à imprimer.
+<p><img src="https://lifedesignca.github.io/images/calendrier_2025.jpg" alt="image"/></p>]]></description>
+      <enclosure url="https://lifedesignca.github.io/images/calendrier_2025.jpg" type="image/jpeg"/>
     </item>
-
-    <!-- ITEM 2 -->
     <item>
       <title>Fiche résumé d’article — A4/A5/Letter (2 PDF remplissables)</title>
-      <link>https://www.etsy.com/ca-fr/listing/4333346421/fiche-resume-darticle-journal-et-de</link>
-      <guid>https://www.etsy.com/ca-fr/listing/4333346421/fiche-resume-darticle-journal-et-de1763226603</guid>
-      <pubDate>Sat, 15 Nov 2025 12:10:03 -0500</pubDate>
-      <description><![CDATA[
-        <p>Pack de 2 modèles (structuré + synthétique), PDF imprimable + 2 PDF A4 fillable.</p>
-        <p>Prix : 2,00 CAD</p>
-        <p><img src="https://i.etsystatic.com/38135463/r/il/24908f/7057585201/il7585201_49pj.jpg"</p>
-      ]]></description>
+      <link>https://lifedesignca.github.io/fiche-resume-article.html</link>
+      <guid>https://lifedesignca.github.io/fiche-resume-article.html</guid>
+      <pubDate>Wed, 17 Dec 2025 21:06:36 GMT</pubDate>
+      <description><![CDATA[Améliorez vos prises de notes avec 2 modèles (structuré + synthétique). PDF imprimable A4/A5/Letter + 2 PDF A4 fillable. Téléchargement instantané.
+<p><img src="https://lifedesignca.github.io/images/resume_article.jpg" alt="image"/></p>]]></description>
+      <enclosure url="https://lifedesignca.github.io/images/resume_article.jpg" type="image/jpeg"/>
     </item>
-
-    <!-- ITEM 3 -->
     <item>
-      <title>Printable Recipe Page Set — A4/A5/Letter + A4 Fillable</title>
-      <link>https://www.etsy.com/ca-fr/listing/4393065246/printable-recipe-book-template-blank</link>
-      <guid>https://www.etsy.com/ca-fr/listing/4393065246/printable-recipe-book-template-blank1763224476</guid>
-      <pubDate>Sat, 15 Nov 2025 11:34:36 -0500</pubDate>
-      <description><![CDATA[
-        <p>Journal de recettes — 4 formats &amp; version A4 remplissable.</p>
-        <p>Prix : 4,00 CAD</p>
-        <p><img src="https://i.etsystatic.com/38135463/r/il/8328617/il_570xN.7557002097_mkou.jpg"</p>
-      ]]></description>
+      <title>Printable Recipe Page Set — A4, A5, Letter + A4 Fillable</title>
+      <link>https://lifedesignca.github.io/printable-recipe-page.html</link>
+      <guid>https://lifedesignca.github.io/printable-recipe-page.html</guid>
+      <pubDate>Wed, 17 Dec 2025 21:06:36 GMT</pubDate>
+      <description><![CDATA[Printable recipe journal pages (4 formats). Includes fillable A4 PDF. Home printing tips included. Digital download only.
+<p><img src="https://lifedesignca.github.io/images/livre_recette.jpg" alt="image"/></p>]]></description>
+      <enclosure url="https://lifedesignca.github.io/images/livre_recette.jpg" type="image/jpeg"/>
     </item>
-
-    <!-- ITEM 4 -->
     <item>
-      <title>Suivi de l’humeur imprimable — Une année en pixels (A4/Letter)</title>
-      <link>https://www.etsy.com/ca-fr/listing/4321475602/suivi-de-lhumeur-imprimable-une-annee-en</link>
-      <guid>https://www.etsy.com/ca-fr/listing/4321475602/suivi-de-lhumeur-imprimable-une-annee-en1760702725</guid>
-      <pubDate>Fri, 17 Oct 2025 08:05:25 -0400</pubDate>
-      <description><![CDATA[
-        <p>Mood tracker bilingue + 90 citations motivantes par émotion.</p>
-        <p>Prix : 2,00 CAD</p>
-        <p><img src="https://i.etsystatic.com/38135463/r/il/3b4e11/7296596684/il_570xN.7294p.jpg"</p>
-      ]]></description>
+      <title>Mood Tracker + Inspirational Quotes (A4/Letter)</title>
+      <link>https://lifedesignca.github.io/mood-tracker.html</link>
+      <guid>https://lifedesignca.github.io/mood-tracker.html</guid>
+      <pubDate>Wed, 17 Dec 2025 21:06:36 GMT</pubDate>
+      <description><![CDATA[Track daily emotions with a color-coded chart + 90 bilingual quotes. Printable PDF A4/Letter. Digital download.
+<p><img src="https://lifedesignca.github.io/images/suivi_humeur.jpg" alt="image"/></p>]]></description>
+      <enclosure url="https://lifedesignca.github.io/images/suivi_humeur.jpg" type="image/jpeg"/>
     </item>
-
+    <item>
+      <title>Rise Like a King Sweatshirt — Chess Motivation Crewneck</title>
+      <link>https://lifedesignca.github.io/sweatshirt-king.html</link>
+      <guid>https://lifedesignca.github.io/sweatshirt-king.html</guid>
+      <pubDate>Wed, 17 Dec 2025 21:06:36 GMT</pubDate>
+      <description><![CDATA[Motivational chess-inspired unisex sweatshirt. Medium-heavy 50/50 cotton-poly, OEKO-TEX. Care: wash cold, tumble dry low.
+<p><img src="https://lifedesignca.github.io/images/sweatshirt_roi.jpg" alt="image"/></p>]]></description>
+      <enclosure url="https://lifedesignca.github.io/images/sweatshirt_roi.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Play Like a King Ceramic Mug (11oz, 15oz)</title>
+      <link>https://lifedesignca.github.io/mug-king.html</link>
+      <guid>https://lifedesignca.github.io/mug-king.html</guid>
+      <pubDate>Wed, 17 Dec 2025 21:06:36 GMT</pubDate>
+      <description><![CDATA[Durable ceramic mug, microwave/dishwasher safe, BPA & lead-free. High-quality printing, C-handle, glossy finish.
+<p><img src="https://lifedesignca.github.io/images/mug_roi.jpg" alt="image"/></p>]]></description>
+      <enclosure url="https://lifedesignca.github.io/images/mug_roi.jpg" type="image/jpeg"/>
+    </item>
   </channel>
 </rss>
